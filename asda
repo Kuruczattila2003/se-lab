@@ -1,0 +1,30 @@
+[33mcommit eebea36c8758452bd16dc8a9e4204f2e226555f5[m[33m ([m[1;36mHEAD -> [m[1;32mADD_FIRE_MODE[m[33m, [m[1;31morigin/ADD_FIRE_MODE[m[33m)[m
+Merge: e3c8e7a 16a2ae5
+Author: KuruczAttila~ <kuruczattila2b@gmail.com>
+Date:   Thu Sep 28 13:40:40 2023 +0200
+
+    Merge branch 'ADD_FIRE_MODE' of https://github.com/Kuruczattila2003/se-lab into ADD_FIRE_MODE
+
+[33mcommit e3c8e7ab3d059e05aac49455b5b32c1fded0a198[m
+Author: KuruczAttila~ <kuruczattila2b@gmail.com>
+Date:   Thu Sep 28 13:40:20 2023 +0200
+
+    ALL FIRE MODE added
+
+[33mcommit 16a2ae5a0d17e420761ff59f6c485c5a4c9a00f6[m
+Author: KuruczAttila~ <kuruczattila2b@gmail.com>
+Date:   Thu Sep 28 13:37:28 2023 +0200
+
+    ADD fire mode was added
+
+[33mcommit aaf2f0572abebc663ebd9aac082a3c4f64e81a7a[m[33m ([m[1;32mmain[m[33m)[m
+Author: zahraa adnan <kuruczattila2b@gmail.com>
+Date:   Thu Sep 28 12:57:03 2023 +0200
+
+    Add initial project files
+
+[33mcommit f4fbea3324206e699ded52dee2b92e9f2483757a[m
+Author: Kurucz Attila <62775502+Kuruczattila2003@users.noreply.github.com>
+Date:   Thu Sep 28 12:34:14 2023 +0200
+
+    Initial commit
